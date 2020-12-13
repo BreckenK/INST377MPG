@@ -1,6 +1,6 @@
 # Final Report
 ### Team Members
-Abdulrahman Abdullahi, Jason Choi, Dennis Ihedioha, Brecken Keller, Pong Li
+Abdulrahman Abdullahi, Jason Choi, Dennis Ihedioha, Brecken Keller, Pong Li 
 
 ### Link to App
 
@@ -13,6 +13,7 @@ Other stakeholders are PG County citizens, companies, retailers, researchers, an
 
 ### Data
 Data used comes from Maryland.gov's Open Data
+
 https://opendata.maryland.gov/Business-and-Economy/Minority-Business-Enterprise-Statewide-Directory-M/djj3-7sjc
 
 ### Chosen Strategies and Solutions
