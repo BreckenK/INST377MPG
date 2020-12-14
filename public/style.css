@@ -48,6 +48,7 @@ h1, h2, h3 {
   width: 1414px;
   text-align: left;
   display:flex;
+  flex-direction: column;
 }
 
 p, input, li {
@@ -151,10 +152,14 @@ input.search {
   margin: 20;
   outline: 0;
   border: 3px solid black;
-  width: 200%;
+  width: 75%;
   position: relative;
   border-radius: 5px;
   font-size: 20px;
+}
+
+input.submitButton { 
+  width: 25%;
 }
 
 .article, .section {
