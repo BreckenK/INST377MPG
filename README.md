@@ -11,7 +11,7 @@ Compatible for iOS version 12+ and Android 10+.
 
 ### Developer Manual
 How to install your application and all dependencies
-- Our application is installed as a Node.js server. Node.js is required, as well as sqlite3. 
+- Our application is installed as a Node.js server. Node.js is required, as well as sqlite3, and the NPM google module as well as an API key is required for the map feature.
 
 How to run your application on a server
 - Our application can be ran by running 'node server.js' in a Powershell terminal with dependencies installed. 
