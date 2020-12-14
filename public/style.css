@@ -136,10 +136,6 @@ nav a, nav span {
 
 /* || main layout */
 
-.main {
-  display: flex;
-}
-
 input {
   width: 100%;
   padding: 25px;
@@ -190,7 +186,7 @@ input.search {
 }
 
 .biz_name {
-  font-size:2.5rem;
+  font-size:3rem;
   font:bold;
   text-align: left;
 }
