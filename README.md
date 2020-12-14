@@ -27,3 +27,7 @@ The API for your server application - all GET, POST, PUT, etc endpoints, and wha
 A clear set of expectations around known bugs and a road-map for future development.
 - Pressing 'enter' while on the search bar will not successfully search, the submit button must be used. 
 - The POST request is not secure, and SQL injection could be used to break the sqlite server. 
+
+FUTURE WORK:
+- Accepting and displaying reviews for individual businesses
+- Displaying business information on map 
