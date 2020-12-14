@@ -47,6 +47,8 @@ h1, h2, h3 {
   line-height: 27px;
   width: 1414px;
   text-align: left;
+  display:flex;
+  flex-direction: column;
 }
 
 p, input, li {
@@ -136,10 +138,6 @@ nav a, nav span {
 
 /* || main layout */
 
-.main {
-  display: flex;
-}
-
 input {
   width: 100%;
   padding: 25px;
@@ -154,10 +152,14 @@ input.search {
   margin: 20;
   outline: 0;
   border: 3px solid black;
-  width: 200%;
+  width: 75%;
   position: relative;
   border-radius: 5px;
   font-size: 20px;
+}
+
+input.submitButton { 
+  width: 25%;
 }
 
 .article, .section {
@@ -190,7 +192,7 @@ input.search {
 }
 
 .biz_name {
-  font-size:2.5rem;
+  font-size:3rem;
   font:bold;
   text-align: left;
 }
