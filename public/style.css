@@ -96,6 +96,7 @@ html, body {
   h1 {
     flex: 5;
     text-transform: 0;
+
   }
   
   header img {
@@ -137,6 +138,7 @@ html, body {
   /* || main layout */
   
   .main {
+    max-width: 990px;
     display: flex;
   }
 
@@ -184,3 +186,21 @@ html, body {
     margin-top: 10px;
   }
   
+  .search {
+
+    display: flex;
+    justify-content: space-around;
+
+  }
+
+  .headerback {
+
+    background-color:  #BCD4DE;
+    height: 306px;
+  }
+
+  .aboutsitebg {
+
+    background-color: #AED1D6
+
+  }
